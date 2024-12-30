@@ -44,6 +44,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mica2108/Mica2108/output/snake.svg" alt="Snake animation" />
 
 ###
